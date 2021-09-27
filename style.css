@@ -30,6 +30,9 @@ img{
 .summary{
     border: rgb(75, 42, 165);
 }
+p{
+    display: flex;
+}
 
 
 
