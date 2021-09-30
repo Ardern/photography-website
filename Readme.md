@@ -3,6 +3,9 @@ A website developed in HTML and CSS in accordance with Moringa week 1 objectives
 
 ### Author Name
 Tressy Mbone
+
+### View live link
+[View here](https://tracymbone.github.io/photography-website/)
 ## Project objectives
 Y our project will be evaluated on the following objectives;
 
