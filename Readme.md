@@ -1,6 +1,8 @@
 # Photography website
 A website developed in HTML and CSS in accordance with Moringa week 1 objectives
 
+### Author Name
+Tressy Mbone
 ## Project objectives
 Y our project will be evaluated on the following objectives;
 
@@ -21,3 +23,5 @@ Y our project will be evaluated on the following objectives;
 * Font style
 * The web page is visually appealing
 * The project design
+
+
