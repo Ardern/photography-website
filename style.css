@@ -51,6 +51,9 @@ h1{
 *{
     color: aqua;
 }
+h1{
+    forced-color-adjust:none ;
+}
 
 
 
