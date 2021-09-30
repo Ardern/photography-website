@@ -40,7 +40,14 @@ p{
 h1{
     display: inline;
 }
+img {
+    height: 150px;
 
+}
+h1{
+    font-weight: normal;
+
+}
 
 
 
