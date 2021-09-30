@@ -6,7 +6,7 @@ p {
 
 }
 
-body {
+body { 
     
     text-align: center
     ;
@@ -41,7 +41,7 @@ h1{
     display: inline;
 }
 img {
-    height: 150px;
+    height: 150px; 
 
 }
 h1{
@@ -61,5 +61,7 @@ p{
     font-family: 'Times New Roman', Times, serif;
 }
 
-
+ h2{
+     padding: 0rem 5pxs;
+ }
 
