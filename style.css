@@ -31,7 +31,11 @@ img{
     border: rgb(75, 42, 165);
 }
 p{
-    display: flex;
+    display: flex; 
+}
+#intro{
+    border: aqua;
+    border-radius: 5px;
 }
 
 
